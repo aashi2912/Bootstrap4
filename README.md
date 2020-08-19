@@ -1,2 +1,2 @@
 # Bootstrap4
-Website using Bootstrao framework.
+Website using Bootstrap framework.
